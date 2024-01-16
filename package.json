@@ -1,11 +1,6 @@
 {
     "private": true,
     "workspaces": [
-        "packages/core",
-        "packages/react",
-        "packages/react-inertia",
-        "packages/vue",
-        "packages/vue-inertia",
         "packages/alpine"
     ],
     "scripts": {
