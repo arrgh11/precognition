@@ -1,4 +1,4 @@
-import form from './index.js'
+import form from '../src/index'
 
 document.addEventListener('alpine:init', () => {
     window.Alpine.plugin(form)
