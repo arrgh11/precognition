@@ -1,5 +1,5 @@
-import form from 'index.js'
+import precognition from './precognition'
 
 document.addEventListener('alpine:init', () => {
-    window.Alpine.plugin(form)
+    window.Alpine.plugin(precognition);
 })
